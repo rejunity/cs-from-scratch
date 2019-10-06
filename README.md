@@ -1,14 +1,14 @@
 # cs-from-scratch
 Zero dependency self contained - Hello world!
 
-Computer Architecture:
+## Computer Architecture
 * How to build CPU+I/O in VHDL lectures: https://opencores.org/ocsvn/cpu_lecture/cpu_lecture/trunk (https://opencores.org/websvn/listing/cpu_lecture)
 * Books:
     * “Computer Architecture: A Quantitative Approach”, John L. Hennessy, and David A. Patterson.
     * “Computer Systems: A Programmer's Perspective”, Randal E. Bryant, and David R. O'Hallaron.
     * “Structured Computer Organization”, Andrew S. Tanenbaum, and Todd Austin.
 
-Compiler:
+## Compiler
 * Overview:
     * https://softwareengineering.stackexchange.com/questions/165543/how-to-write-a-very-basic-compiler
     * https://wiki.osdev.org/Making_a_Compiler
@@ -29,7 +29,7 @@ Compiler:
     * Learn COFF and PE formats(for windows), alternatively understand ELF format(for Linux)
     * Learn Flex and Bison first.
 
-OS:
+## OS
 * Overview: https://wiki.osdev.org/Main_Page
     * Books: https://wiki.osdev.org/Books
 * Books
@@ -59,7 +59,7 @@ OS:
     * I’m writing my own OS - https://gusc.lv/2012/11/im-writing-my-own-os/, https://gusc.lv/2012/11/im-writing-my-own-os-p2/
     * How I ended up writing a new real-time kernel https://dmitryfrank.com/articles/how_i_ended_up_writing_my_own_kernel
 
-Plan:
+## Plan of attack
 * OS first steps
     * Boot sequence - https://wiki.osdev.org/Boot_Sequence
     * Simple kernel for 32-bit x86 and boot loader.  https://wiki.osdev.org/Bare_bones
