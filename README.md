@@ -2,25 +2,27 @@
 Zero dependency self contained - Hello world!
 
 ## Computer Architecture
-* How to build CPU+I/O in VHDL lectures: https://opencores.org/ocsvn/cpu_lecture/cpu_lecture/trunk (https://opencores.org/websvn/listing/cpu_lecture)
+* Lectures:
+    * How to build CPU+I/O in VHDL: https://opencores.org/websvn/listing/cpu_lecture
 * Books:
-    * “Computer Architecture: A Quantitative Approach”, John L. Hennessy, and David A. Patterson.
-    * “Computer Systems: A Programmer's Perspective”, Randal E. Bryant, and David R. O'Hallaron.
-    * “Structured Computer Organization”, Andrew S. Tanenbaum, and Todd Austin.
+    * [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X) by John L. Hennessy, and David A. Patterson.
+    * [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) by Randal E. Bryant, and David R. O'Hallaron.
+    * [Structured Computer Organization](https://www.amazon.com/Structured-Computer-Organization-Andrew-Tanenbaum/dp/0132916525) by Andrew S. Tanenbaum, and Todd Austin.
 
 ## Compiler
 * Overview:
     * https://softwareengineering.stackexchange.com/questions/165543/how-to-write-a-very-basic-compiler
     * https://wiki.osdev.org/Making_a_Compiler
-* Books:
-    * “Dragon Book” Compilers: Principles, Techniques, and Tools (2nd Edition) https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
-    * “Modern Compiler Design” https://www.amazon.com/dp/0471976970/
-    * “Compiler Construction: Principles and Practice”, Kenneth C. Louden, 1997: https://www.amazon.com/dp/0534939724/
-    * “Let's Build a Compiler” online, Jack Crenshaw: https://compilers.iecc.com/crenshaw/
-    * “Compiler Construction”, N. Wirth 1996: https://www.amazon.com/dp/0201403536/
+* Online books:
+    * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw) by Jack Crenshaw.
     * http://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
     * “Crafting Interpreters” online: https://craftinginterpreters.co
-        * https://github.com/munificent/craftinginterpreter
+    * https://github.com/munificent/craftinginterpreter
+* Books:
+    * "Dragon Book" [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811) by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman.
+    * [Modern Compiler Design](https://www.amazon.com/Modern-Compiler-Design-Dick-Grune/dp/1461446988) by Dick Grune, van Reeuwijk, Kees, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen.
+    * [Compiler Construction: Principles and Practice](https://www.amazon.com/dp/0534939724/) by Kenneth C. Louden
+    * [Compiler Construction](https://www.amazon.com/dp/0201403536/) by Niklaus Wirth
 * Parsers: https://en.wikipedia.org/wiki/Comparison_of_parser_generators
 * Intros:
     * “Writing a simple Code Generator” Gabriel Sassone - https://jorenjoestar.github.io/post/writing_a_simple_code_generator/
