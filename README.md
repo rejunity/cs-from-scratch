@@ -14,12 +14,11 @@ Zero dependency self contained - Hello world!
     * https://softwareengineering.stackexchange.com/questions/165543/how-to-write-a-very-basic-compiler
     * https://wiki.osdev.org/Making_a_Compiler
 * Online books:
-    * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw) by Jack Crenshaw.
-    * http://gnuu.org/2009/09/18/writing-your-own-toy-compiler/
-    * “Crafting Interpreters” online: https://craftinginterpreters.co
-    * https://github.com/munificent/craftinginterpreter
+    * [Let's Build a Compiler](https://compilers.iecc.com/crenshaw) by Jack Crenshaw. Introduction to compiler construction written from 1988 to 1995.
+    * [Crafting Interpreters](http://craftinginterpreters.com) by Bob Nystrom. Autor of Dart. Written from 2015-2018. Source code: https://github.com/munificent/craftinginterpreters
+    * [Writing Your Own Toy Compiler Using Flex, Bison and LLVM](http://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)  by Loren Segal. Written around 2009. Source code: https://github.com/lsegal/my_toy_compiler
 * Books:
-    * "Dragon Book" [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811) by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman.
+    * The "Dragon Book" [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811) by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman.
     * [Modern Compiler Design](https://www.amazon.com/Modern-Compiler-Design-Dick-Grune/dp/1461446988) by Dick Grune, van Reeuwijk, Kees, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen.
     * [Compiler Construction: Principles and Practice](https://www.amazon.com/dp/0534939724/) by Kenneth C. Louden
     * [Compiler Construction](https://www.amazon.com/dp/0201403536/) by Niklaus Wirth
