@@ -22,6 +22,8 @@ Zero dependency self contained - Hello world!
     * [Modern Compiler Design](https://www.amazon.com/Modern-Compiler-Design-Dick-Grune/dp/1461446988) by Dick Grune, van Reeuwijk, Kees, Henri E. Bal, Ceriel J.H. Jacobs, Koen Langendoen.
     * [Compiler Construction: Principles and Practice](https://www.amazon.com/dp/0534939724/) by Kenneth C. Louden
     * [Compiler Construction](https://www.amazon.com/dp/0201403536/) by Niklaus Wirth
+    * [Writing An Interpreter In Go](https://interpreterbook.com/) by Thorsten Ball
+    * [Writing A Compiler In Go](https://compilerbook.com/) by Thorsten Ball
 * Parsers: https://en.wikipedia.org/wiki/Comparison_of_parser_generators
 * Intros:
     * “Writing a simple Code Generator” Gabriel Sassone - https://jorenjoestar.github.io/post/writing_a_simple_code_generator/
